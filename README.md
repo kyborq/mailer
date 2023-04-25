@@ -2,6 +2,15 @@
 
 A small tool for mass mailing with html templates support written in Python
 
+## Idea
+
+While developing this project I followed next ideas:
+
+1. Use it for automate my routine tasks to send information mail for my students
+2. Never use it for spam people
+3. Continue adding new features like rest api for backend and creating frontend
+4. And so on... 
+
 ## How to use
 
 ### Installing
